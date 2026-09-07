@@ -1,5 +1,9 @@
-*, *::before, *::after { /* criando uma regra */
+*, *::before, *::after { /* padding e borda contam por dentro da largura */
     box-sizing: border-box;
+}
+
+body, h1, h2, h3, p {
+    margin: 0;
 }
 
 body {
