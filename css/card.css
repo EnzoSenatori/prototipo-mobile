@@ -1,0 +1,21 @@
+.card { /* a caixa*/
+    background-color: #ffffff;
+    border: 1px solid #d4d4d8;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.card__title { /* título dentro da caixa */
+    color: #1a1a1a;
+    font-size: 18px;
+}
+
+.card__text { /* o texto dentro da caixa*/
+    color: #6b7280;
+    font-size: 14px;
+}
+
+.card--featured { /* a variação em destaque */
+    border-color: #0f766e;
+    border-width: 2px;
+}

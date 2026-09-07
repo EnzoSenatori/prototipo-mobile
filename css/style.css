@@ -1,0 +1,13 @@
+*, *::before, *::after { /* criando uma regra */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, Arial, sans-serif;
+    background-color: #e4e4e0;
+    color: #1a1a1a;
+}
+
+h1 {
+    color: #0f766e;
+}
