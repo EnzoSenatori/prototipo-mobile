@@ -16,7 +16,7 @@
     cursor: pointer;
     text-decoration: none;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
     display: inline-flex;
 }
 
